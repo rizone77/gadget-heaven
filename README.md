@@ -1,13 +1,35 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Gadget Heaven
 
-Currently, two official plugins are available:
+Welcome to **Gadget Heaven**, your one-stop shop for the latest and greatest in gadgets and electronics. From laptops, phones, and smartwatches to accessories, MacBooks, and iPhones, we offer top-tier products to satisfy all your tech needs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Browse a wide variety of products across multiple categories.
+- View detailed gadget information on the GadgetDetail page.
+- Add products to your cart or wishlist for easy shopping.
+- Enjoy a seamless shopping experience with an intuitive user interface.
 
-## Expanding the ESLint configuration
+## Categories
+- **Laptops**: Find the best laptops for work, gaming, and everything in between.
+- **Phones**: Explore a collection of the latest smartphones.
+- **Accessories**: Complete your gadget setup with high-quality accessories.
+- **Smartwatches**: Stay connected and stylish with the best smartwatches.
+- **MacBooks**: Get the latest MacBook models for all your productivity needs.
+- **iPhones**: Shop for the newest iPhone models, accessories, and more.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# gadget-heaven
+## Technology Stack
+- **Frontend**: HTML, CSS, JavaScript (React)
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Hosting**: [Your Hosting Platform]
+  
+## How to Use
+- Visit the homepage to explore products.
+- Click on any product to view its detailed page.
+- Add items to your cart or wishlist by clicking the respective buttons.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any questions or feedback, feel free to reach out to us at [your-email@example.com].
