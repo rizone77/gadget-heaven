@@ -17,19 +17,15 @@ Welcome to **Gadget Heaven**, your one-stop shop for the latest and greatest in 
 - **MacBooks**: Get the latest MacBook models for all your productivity needs.
 - **iPhones**: Shop for the newest iPhone models, accessories, and more.
 
-## Technology Stack
-- **Frontend**: HTML, CSS, JavaScript (React)
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Hosting**: [Your Hosting Platform]
+ HTML, CSS, JavaScript (React)
+
   
 ## How to Use
 - Visit the homepage to explore products.
 - Click on any product to view its detailed page.
 - Add items to your cart or wishlist by clicking the respective buttons.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Contact
-For any questions or feedback, feel free to reach out to us at [your-email@example.com].
+
