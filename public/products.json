@@ -1,0 +1,328 @@
+
+  [
+    {
+      "id": 1,
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "price": 999.99,
+      "description": "Compact and powerful ultrabook with a 13.4-inch display.",
+      "image": "img/1.png",
+      "category": "laptop"
+    },
+    {
+      "id": 2,
+      "name": "HP Spectre x360",
+      "brand": "HP",
+      "price": 1099.99,
+      "description": "Convertible laptop with touch display and premium build.",
+      "image": "img/2.png",
+      "category": "laptop"
+    },
+    {
+      "id": 3,
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "brand": "Lenovo",
+      "price": 1249.99,
+      "description": "Lightweight business laptop with high durability and performance.",
+      "image": "img/3.png",
+      "category": "laptop"
+    },
+    {
+      "id": 4,
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Asus",
+      "price": 1399.99,
+      "description": "Gaming laptop with powerful graphics and fast refresh rate display.",
+      "image": "img/4.png",
+      "category": "laptop"
+    },
+    {
+      "id": 5,
+      "name": "Acer Swift 3",
+      "brand": "Acer",
+      "price": 699.99,
+      "description": "Affordable, lightweight laptop great for students and professionals.",
+      "image": "img/5.png",
+      "category": "laptop"
+    },
+    {
+      "id": 6,
+      "name": "Microsoft Surface Laptop 5",
+      "brand": "Microsoft",
+      "price": 1199.99,
+      "description": "Elegant touchscreen laptop with strong performance and design.",
+      "image": "img/6.png",
+      "category": "laptop"
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy S24",
+      "brand": "Samsung",
+      "price": 899.99,
+      "description": "Flagship Android phone with high refresh display and top-tier camera.",
+      "image": "img/7.png",
+      "category": "phone"
+    },
+    {
+      "id": 8,
+      "name": "Google Pixel 8",
+      "brand": "Google",
+      "price": 799.99,
+      "description": "Clean Android experience with stellar AI-powered photography.",
+      "image": "img/8.png",
+      "category": "phone"
+    },
+    {
+      "id": 9,
+      "name": "OnePlus 12",
+      "brand": "OnePlus",
+      "price": 749.99,
+      "description": "Performance-packed phone with fast charging and smooth OxygenOS.",
+      "image": "img/9.png",
+      "category": "phone"
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi 14 Pro",
+      "brand": "Xiaomi",
+      "price": 699.99,
+      "description": "Powerful flagship with high-end features and great value.",
+      "image": "img/10.png",
+      "category": "phone"
+    },
+    {
+      "id": 11,
+      "name": "Sony Xperia 1 V",
+      "brand": "Sony",
+      "price": 1199.99,
+      "description": "Professional-grade smartphone for photography and videography.",
+      "image": "img/11.png",
+      "category": "phone"
+    },
+    {
+      "id": 12,
+      "name": "Motorola Edge+",
+      "brand": "Motorola",
+      "price": 699.99,
+      "description": "Edge display smartphone with long battery life and clean UI.",
+      "image": "img/12.png",
+      "category": "phone"
+    },
+    {
+      "id": 13,
+      "name": "Logitech MX Master 3S",
+      "brand": "Logitech",
+      "price": 99.99,
+      "description": "Advanced wireless mouse for productivity and creators.",
+      "image": "img/13.png",
+      "category": "accessory"
+    },
+    {
+      "id": 14,
+      "name": "Anker PowerCore 10000",
+      "brand": "Anker",
+      "price": 29.99,
+      "description": "Compact power bank with high-speed charging.",
+      "image": "img/14.png",
+      "category": "accessory"
+    },
+    {
+      "id": 15,
+      "name": "Samsung T7 Portable SSD",
+      "brand": "Samsung",
+      "price": 129.99,
+      "description": "Fast external storage with USB-C support.",
+      "image": "img/15.png",
+      "category": "accessory"
+    },
+    {
+      "id": 16,
+      "name": "Apple AirTag (4-Pack)",
+      "brand": "Apple",
+      "price": 99.99,
+      "description": "Easily track your belongings using the Find My app.",
+      "image": "img/16.png",
+      "category": "accessory"
+    },
+    {
+      "id": 17,
+      "name": "Belkin BoostCharge Pro",
+      "brand": "Belkin",
+      "price": 59.99,
+      "description": "3-in-1 MagSafe wireless charging station.",
+      "image": "img/17.png",
+      "category": "accessory"
+    },
+    {
+      "id": 18,
+      "name": "JBL Flip 6 Bluetooth Speaker",
+      "brand": "JBL",
+      "price": 129.99,
+      "description": "Portable waterproof speaker with bold sound.",
+      "image": "img/18.png",
+      "category": "accessory"
+    },
+    {
+      "id": 19,
+      "name": "Apple Watch Series 9",
+      "brand": "Apple",
+      "price": 399.99,
+      "description": "Advanced health and fitness tracking with Siri support.",
+      "image": "img/19.png",
+      "category": "smartwatch"
+    },
+    {
+      "id": 20,
+      "name": "Samsung Galaxy Watch 6",
+      "brand": "Samsung",
+      "price": 349.99,
+      "description": "Wear OS smartwatch with fitness tracking and long battery life.",
+      "image": "img/20.png",
+      "category": "smartwatch"
+    },
+    {
+      "id": 21,
+      "name": "Garmin Venu 3",
+      "brand": "Garmin",
+      "price": 449.99,
+      "description": "GPS smartwatch with AMOLED display and wellness features.",
+      "image": "img/21.png",
+      "category": "smartwatch"
+    },
+    {
+      "id": 22,
+      "name": "Fitbit Sense 2",
+      "brand": "Fitbit",
+      "price": 249.99,
+      "description": "Smartwatch with stress management and heart health tracking.",
+      "image": "img/22.png",
+      "category": "smartwatch"
+    },
+    {
+      "id": 23,
+      "name": "Amazfit GTR 4",
+      "brand": "Amazfit",
+      "price": 199.99,
+      "description": "Stylish smartwatch with long battery life and GPS.",
+      "image": "img/23.png",
+      "category": "smartwatch"
+    },
+    {
+      "id": 24,
+      "name": "Huawei Watch GT 4",
+      "brand": "Huawei",
+      "price": 299.99,
+      "description": "Premium design smartwatch with fitness and health features.",
+      "image": "img/24.png",
+      "category": "smartwatch"
+    },
+    {
+      "id": 25,
+      "name": "MacBook Air M2",
+      "brand": "Apple",
+      "price": 1099.99,
+      "description": "Thin and light with the powerful M2 chip and 18-hour battery life.",
+      "image": "img/25.png",
+      "category": "macbook"
+    },
+    {
+      "id": 26,
+      "name": "MacBook Pro 14-inch M3",
+      "brand": "Apple",
+      "price": 1999.99,
+      "description": "Professional performance with Liquid Retina XDR display.",
+      "image": "img/26.png",
+      "category": "macbook"
+    },
+    {
+      "id": 27,
+      "name": "MacBook Air 15-inch M2",
+      "brand": "Apple",
+      "price": 1299.99,
+      "description": "Larger display with the same portability and M2 performance.",
+      "image": "img/27.png",
+      "category": "macbook"
+    },
+    {
+      "id": 28,
+      "name": "MacBook Pro 16-inch M3 Max",
+      "brand": "Apple",
+      "price": 3499.99,
+      "description": "Top-tier MacBook for creators with M3 Max and 16GB GPU.",
+      "image": "img/28.png",
+      "category": "macbook"
+    },
+    {
+      "id": 29,
+      "name": "MacBook Pro 13-inch M2",
+      "brand": "Apple",
+      "price": 1299.99,
+      "description": "Compact performance laptop with Touch Bar and M2 chip.",
+      "image": "img/29.png",
+      "category": "macbook"
+    },
+    {
+      "id": 30,
+      "name": "Refurbished MacBook Air M1",
+      "brand": "Apple",
+      "price": 849.99,
+      "description": "Affordable and powerful with fanless M1 design.",
+      "image": "img/30.png",
+      "category": "macbook"
+    },
+    {
+      "id": 31,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 999.99,
+      "description": "Titanium design with A17 Pro chip and Pro camera system.",
+      "image": "img/31.png",
+      "category": "iphone"
+    },
+    {
+      "id": 32,
+      "name": "iPhone 15",
+      "brand": "Apple",
+      "price": 799.99,
+      "description": "Dynamic Island, A16 Bionic, and improved battery life.",
+      "image": "img/32.png",
+      "category": "iphone"
+    },
+    {
+      "id": 33,
+      "name": "iPhone 14 Plus",
+      "brand": "Apple",
+      "price": 749.99,
+      "description": "Larger display, great battery, and dual-camera system.",
+      "image": "img/33.png",
+      "category": "iphone"
+    },
+    {
+      "id": 34,
+      "name": "iPhone 13",
+      "brand": "Apple",
+      "price": 599.99,
+      "description": "Excellent performance and camera at a budget-friendly price.",
+      "image": "img/34.png",
+      "category": "iphone"
+    },
+    {
+      "id": 35,
+      "name": "iPhone SE (3rd Gen)",
+      "brand": "Apple",
+      "price": 429.99,
+      "description": "Compact phone with A15 chip and Touch ID.",
+      "image": "img/35.png",
+      "category": "iphone"
+    },
+    {
+      "id": 36,
+      "name": "iPhone 15 Pro Max",
+      "brand": "Apple",
+      "price": 1199.99,
+      "description": "Best-in-class camera, large display, and incredible performance.",
+      "image": "img/36.png",
+      "category": "iphone"
+    }
+  ]
+  
